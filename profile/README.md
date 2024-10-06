@@ -1,1 +1,2 @@
-# Lua is awesome!
+ - **WIKI:** <https://docs.gamely.com.br>
+ - **IDE:** <https://playground.ganely.com.br>
