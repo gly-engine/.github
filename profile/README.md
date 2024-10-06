@@ -1,2 +1,2 @@
  - **WIKI:** <https://docs.gamely.com.br>
- - **IDE:** <https://playground.ganely.com.br>
+ - **IDE:** <https://playground.gamely.com.br>
