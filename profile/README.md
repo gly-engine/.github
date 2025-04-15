@@ -27,7 +27,7 @@
 | 25 | Grid System  | Example | [gly-engine](https://github.com/gamelly/gly-engine) | [online](https://gridsystem.gamely.com.br)<br/>[code](https://github.com/gamelly/gly-engine/blob/main/samples/gridsystem/game.lua) | app write with lua using gly engine
 | 26 | Tool IMG Gen | IDE | [tool-img-gen](https://github.com/gamelly/tool-img-gen) | [online](https://gamelly.github.io/tool-img-gen/) | generate images and logos using lua and gly engine
 | 27 | Love To Tic | Library/CLI | [core-native-tic](https://github.com/gamelly/core-native-tic) | [npm](https://www.npmjs.com/package/@gamely/love2tic) | convert love2d games in TIC80 cartbridges
-| 28 | Engine To Tic | Library/CLI | [core-native-tic](https://github.com/gamelly/core-native-tic) | [npm](https://www.npmjs.com/package/@gamely/engine2tic) | build engine+games to TIC80 cartbridges
+| 28 | Lua To Tic | Library/CLI | [core-native-tic](https://github.com/gamelly/core-native-tic) | [npm](https://www.npmjs.com/package/@gamely/lua2tic) | build engine+games to TIC80 cartbridges
 | 29 | Gly Type | Library | [gly-type](https://github.com/gamelly/gly-type) | [npm](https://www.npmjs.com/package/@gamely/font-mono-retro)<br>[docs](https://gamelly.github.io/gly-type) | font render + font for limited devices
 | 30 | Bundler | Library | [gly-engine](https://github.com/gamelly/gly-engine) | [docs](https://docs.gamely.com.br/group__bundler) | unify lua files
 | 31 | Registry | Site | [registry](https://github.com/gamelly/registry) | [online](https://get.gamely.com.br) | avaliable resources for download 
